@@ -1,15 +1,91 @@
 /*  your css code here. If applicable */
 body{
-	background-color: #f8f8f8;
-}
-#title{
-	text-align: center;
-}
-.book-library{
-	background-color: #ffffff;
-	height: 8000px;
-	width:800px;	
-}
-.book{
-	
-}
+        background-color: #f8f8f8;
+        position: relative;
+    }
+    #title-2{
+        background-color: #f8f8f8;
+        text-align: center;
+        
+    }
+    .book-library{
+        position: absolute;
+        background-color: #ffffff;
+        border: 50px;
+        width: 400px;
+        box-sizing: border-box;
+        height: 600px;
+        margin-right: 50%;
+        margin-left: 120px;
+       
+    }
+    .book{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100px;  
+    }
+    #img-1{
+        background-color: #f8f8f8;
+       
+        
+    }    
+    #img-2{
+        background-color: #f8f8f8;
+    }
+    #img-3{
+        background-color: #f8f8f8;
+    }
+    #name-1{
+        line-height: 0px;
+        margin-left: 5px;
+
+    }         
+    #author-1{
+        line-height: 0;
+        color:#777777;
+        margin-left: 5px;
+    }
+    #pb-1{
+        background-color: #2ecc71;
+        border-radius: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        margin-top: -7px;
+        
+    }
+    #name-2{
+        line-height: 0px;
+        margin-left: 5px;
+
+    }         
+    #author-2{
+        line-height: 0;
+        color:#777777;
+        margin-left: 5px;
+    }
+    #pb-2{
+        background-color: #2ecc71;
+        border-radius: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        
+    }
+    #name-3{
+        line-height: 0px;
+        margin-left: 5px;
+
+    }         
+    #author-3{
+        line-height: 0;
+        color:#777777;
+        margin-left: 5px;
+    }
+    #pb-3{
+        background-color: #2ecc71;
+        border-radius: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+        margin-top: -7px;
+        
+    }
